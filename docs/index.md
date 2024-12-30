@@ -1,29 +1,46 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>National Center for Ontological Research</title>
-</head>
-<body>
-    <h1>National Center for Ontological Research (NCOR)</h1>
-    <p>The <a href="https://www.buffalo.edu/ncor.html" target="_blank">National Center for Ontological Research (NCOR)</a> was established in Buffalo in 2005 by <a href="https://ontology.buffalo.edu/smith/" target="_blank">Barry Smith</a> with the goal of advancing the quality of ontological research and development and of establishing tools and measures for ontology evaluation and quality assurance. NCOR draws on the expertise of ontologists associated with the <a href="https://www.buffalo.edu/" target="_blank">University at Buffalo</a> and of their collaborators in scientific, commercial, and government institutions throughout the world.</p>
-    
-    <p>NCOR serves as a vehicle to coordinate, enhance, publicize, and seek funding for ontological research activities. It provides coordination, infrastructure, and independent review to organizations employing ontologies in fields such as defense and intelligence, management, healthcare, and biomedical sciences.</p>
+## NCOR West Coast Division 
 
-    <p>It provides researchers working in ontology-related areas with specialized support in seeking external funding and in assembling collaborative, interdisciplinary teams both nationally and internationally. It provides consultant services for ontology projects, especially in the defense and security fields and in health care and biomedical informatics. NCOR also engages in training and outreach endeavors that are designed to broaden the range of institutions and individuals accepting the goals of high-quality ontology in both theory and practice.</p>
+Welcome to the **NCOR West Coast Division (Riverside)**, a collaborative initiative dedicated to expanding the field of applied ontology. Our division brings together thinkers, researchers, and practitioners to explore the intersection of philosophy, data science, and practical applications. By focusing on real-world challenges, we aim to improve the understanding and modeling of complex systems across various domains.
 
-    <div class="center-text"><img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/Smith_Barry.jpg" alt="Barry Smith" style="width:25%;"></div>
+### About Us
 
-    <h2>Contemporary Ontology</h2>
-    <p>Contemporary ontology is a partnership of multiple disciplines. On the one hand, ontological research involves philosophers who are concerned to describe broad categories of entities and their most basic relationships. On the other hand, ontologists are working in diverse fields of computer and information science to provide more narrowly focused classification systems in areas such as bioinformatics, engineering, or defense and security.</p>
+At the West Coast Division, we strive to:
 
-    <p>Ontologists have identified a wide range of theories and methods to aid the consistent representation of data and information. The idea, in all these cases, is that when bodies of data are annotated using well-structured ontologies, these data can be more easily retrieved, integrated, and compared, and they can more easily be exploited for purposes of computer-based reasoning.</p>
+- Foster the next generation of Ontologist.
+- Develop tools, frameworks, and methodologies to improve data organization, knowledge sharing, and decision-making.
+- Promote awareness of applied ontology’s relevance in addressing challenges in technology, healthcare, business, and other sectors.
 
-    <p>In biology and biomedicine ontologists have developed controlled vocabularies such as the <a href="https://www.geneontology.org/" target="_blank">Gene Ontology</a> that are being used to describe the results of biological experiments in a consistent fashion that allows comparison of data pertaining to multiple species, diseases, and biological systems. In government, administration, and commerce, ontologies such as the <a href=" https://github.com/CommonCoreOntology/CommonCoreOntologies" target="_blank">Common Core Ontologies</a> are being used to connect data across different departments (such as large government agencies) and to make these data accessible to standard software tools.</p>
+Our work focuses on creating solutions that are both practical and insightful, helping industries better structure and utilize their knowledge.
 
-    <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/BFO-CCO.png" alt="BFO-CCO" style="width:100%;">
+### Leadership
 
-    <p>Ontologists study how definitions, classifications, and relationships should be formulated using the tools of logic and formal semantics in order to most effectively achieve these goals. Their research provides foundations for diverse technologies in areas such as information integration, natural language processing, data annotation, and the construction of intelligent computer systems. Ontologies can also be used by human beings to codify and make explicit common understandings that support human-to-human communication and successful collaborative research across disciplinary boundaries.</p>
-</body>
-</html>
+The West Coast Division is led by experts in the field:
+
+- **Hector Guzman-Orozco** - Division Head  
+  Hector brings extensive experience in applied ontology, overseeing research initiatives and fostering collaboration across disciplines. His leadership ensures the division stays at the forefront of innovation.
+
+- **Cristian Keroles** - Lead Researcher  
+  Cristian specializes in practical applications of ontological principles, working closely with researchers and professionals to develop actionable solutions for real-world problems.
+
+Together, Hector and Cristian are committed to building a community that encourages dialogue, discovery, and actionable research outcomes.
+
+### Weekly Meetings
+
+We believe that collaboration is essential to advancing the field of applied ontology. To facilitate knowledge sharing and community engagement, we host a **once-a-week meeting** that welcomes researchers, professionals, students, and enthusiasts:
+
+- **When:** Every Thursday @8pm PST   
+- **Where:** Zoom  
+- **What to Expect:**
+  - Engaging presentations on the developments in applied ontology.
+  - Open discussions on current research, challenges, and practical applications.
+  - Networking opportunities to connect with like-minded individuals and professionals.
+
+Our meetings are designed to foster collaboration, inspire new ideas, and create opportunities for individuals to contribute to the growth of this field.
+
+### Get Involved
+
+We are always looking for passionate individuals to join our efforts, share ideas, or contribute to ongoing projects. Whether you are a seasoned researcher, a professional in the industry, or someone curious about the field, we welcome your participation.
+
+If you have questions, want to learn more, or are interested in joining our weekly meetings, please don’t hesitate to reach out. We encourage you to contact us at:
+
+**hector.guzor@gmail.com**
