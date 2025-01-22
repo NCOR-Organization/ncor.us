@@ -46,10 +46,10 @@
         </div>
     </div>
     <div class="grid-item">
-        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Alan-Ruttenberg-300x225.jpg" alt="Allen Ruttenberg">
+        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Alan-Ruttenberg-300x225.jpg" alt="Alan Ruttenberg">
         <div class="grid-item-content">
             <h3><a href="//creativecommons.org/about/program-areas/open-science">Alan Ruttenberg</a></h3>
-            <a href="//obofoundry.org/">Ontologist <br> Open Biological and Biomedical Ontology Foundry</a>
+            <a href="//obofoundry.org/">Ontologist <br> Open Biological and Biomedical Ontologies Foundry</a>
             <p><em>Research in Knowledge Representation, Computational Biology, Bioinformatics, Artificial Intelligence, Rich User Interface, and Parallel Computing</em></p>
         </div>
     </div>
@@ -64,7 +64,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2020/05/Babcock-NCOR-pic-scaled.jpg" alt="Shane Babcock">
         <div class="grid-item-content">
             <h3><a href="https://www.researchgate.net/profile/Shane-Babcock">Shane Babcock</a></h3>
-            Air Force Research Labs
+            KadSci, LLC.
             <p><em>Research in Traditional Metaphysics and Applied Ontology</em></p>
         </div>
     </div>
@@ -98,7 +98,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Ron-Rudnicki-300x300.jpg" alt="Ron Rudnicki">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/ron-rudnicki-957b004/">Ron Rudnicki</a></h3>
-            <a href="http://www.cubrc.org">Principal Ontologist <br> CUBRC, Inc.</a>
+            <a href="http://www.cubrc.org">Emeritus Principal Ontologist <br> CUBRC, Inc.</a>
             <p><em>Research in Applied Ontology, Semantic Web Technologies, and Applications to Military Intelligence</em></p>
         </div>
     </div>
@@ -116,7 +116,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Lindsay-Cowell-206x300.jpg" alt="Lindsay Cowell">
         <div class="grid-item-content">
             <h3><a href="http://www.utsouthwestern.edu/fis/faculty/120432/lindsay-cowell.html">Lindsay Cowell</a></h3>
-            <a href="http://www.utsouthwestern.edu/education/medical-school/departments/clinical-sciences/index.html">Associate Professor<br> University of Texas Southwestern Medical Center: Department of Clinical Sciences</a>
+            <a href="http://www.utsouthwestern.edu/education/medical-school/departments/clinical-sciences/index.html">Professor<br> University of Texas Southwestern Medical Center: Department of Clinical Sciences</a>
             <p><em>Research in Computational Immunology and Infectious Disease Ontologies</em></p>
         </div>
     </div>
@@ -134,8 +134,8 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Landgrebe-300x169.jpg" alt="Jobst Landgrebe">
         <div class="grid-item-content">
             <h3><a href="http://www.cognotekt.com">Jobst Landgrebe</a></h3>
-            Founder and CEO of Cognotekt, GmBH
-            <p><em>AI company based in Cologne specialised in the design and implementation of holistic AI solutions</em></p>
+            Research Director at Indivumed GmbH, Hamburg
+            <p><em>Research in mathematics, oncology, ontology of physics</em></p>
         </div>
     </div>
 
@@ -196,7 +196,7 @@
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/Delaney.jpg" alt="Delaney McNulty" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/delaney-mcnulty-20541918a/">Delaney McNulty</a></h3>
-            <p>Department of Indigenous Studies</p>
+            <p>Department of Indigenous Studies University at Buffalo </p>
             <p><em>Research in Philosophy of Science, Cognitive Science, Philosophy of Psychology, and Applied Ontology</em></p>
         </div>
     </div>
@@ -232,7 +232,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/mark_jensen_head_shot_sm-e1486422487967-300x279.jpg" alt="Mark Jensen" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/mark-jensen-022a98103/">Mark Jensen</a></h3>
-            Senior Ontologist <br> CUBRC, Inc
+            Senior Ontologist <br> Customs and Border Protection
             <p><em>Research in development and implementation of ontologies for military and biomedical applications; mental health, psychiatry, and neurology</em></p>
         </div>
     </div>
@@ -249,7 +249,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Neil-Williams-292x300.jpg" alt="Neil E. Williams" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="http://www.acsu.buffalo.edu/~new/">Neil E. Williams</a></h3>
-            <a href="//www.buffalo.edu/cas/philosophy/faculty/faculty_directory/williams.html">Professor & Chair of the Department of Philosophy University at Buffalo</a>
+            <a href="//www.buffalo.edu/cas/philosophy/faculty/faculty_directory/williams.html">Professor, Department of Philosophy University at Buffalo</a>
             <p><em>Research in Traditional Metaphysics, Powers, and Ontology of Disease and Dysfunction</em></p>
         </div>
     </div>
@@ -276,7 +276,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2020/05/unnamed.png" alt="Yongqun He" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fhegroup.org%2F&amp;data=05%7C01%7Cmcnulty5%40buffalo.edu%7Cd5d2607d0be041f9820908db6600b2ee%7C96464a8af8ed40b199e25f6b50a20250%7C0%7C0%7C638215925417483551%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&amp;sdata=D6T4itmL6hRvMtOH4rOBeEADaICaCkfEOtTlUU4zXFA%3D&amp;reserved=0">Yongqun ("Oliver") He</a></h3>
-            <a href="https://medicine.umich.edu/dept/dcmb/yongqun-oliver-he-phd">Associate Professor <br> University of Michigan, Ann Arbor</a>
+            <a href="https://medicine.umich.edu/dept/dcmb/yongqun-oliver-he-phd">Professor <br> University of Michigan, Ann Arbor</a>
             <p><em>Research in Ontology, Microbiology, Vaccinology, Nephrology, Literature Mining, and Machine Learning</em></p>
         </div>
     </div>
@@ -328,7 +328,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2021/03/headshot-small.png" alt="Christian Will" width="200" height="200">
         <div class="grid-item-content">
             <h3>Christian Will</h3>
-            <a href="//www.industrialontologies.org/">Research Scientist <br> National Center for Ontological Research</a>
+            <a href="//www.industrialontologies.org/">Research Scientist <br> Industrial Ontologies Foundry</a>
         </div>
     </div>
 
@@ -336,7 +336,7 @@
         <img src="https://www.buffalo.edu/content/cas/philosophy/grad-study/grad_directory/jcr:content/par/image_1660011936_cop_1041367633.img.140.140.z.jpg/1649966745737.z.jpg" alt="Austin Liebers" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/austin-liebers-774a0b1b6/">Austin Liebers</a></h3>
-            Ontology Intern <br> Johns Hopkins University Applied Physics Lab
+            Ontologist <br> Summit Knowledge Solutions
             <p><em>Research in Metaphysics, Metaethics, Aesthetics, and Applied Ontology</em></p>
         </div>
     </div>
@@ -345,7 +345,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/s200_hedi.levitch.jpg" alt="Mohamed Hedi Karray" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//scholar.google.com/citations?user=BGtnwfkAAAAJ">Mohamed Hedi Karray</a></h3>
-            <a href="//www.univ-tlse2.fr/accueil/formation-insertion/les-departements-de-formation/philosophie-3136.kjsp">INP-ENIT, Federal University of Toulouse, France</a>
+            <a href="//www.univ-tlse2.fr/accueil/formation-insertion/les-departements-de-formation/philosophie-3136.kjsp">Programme Manager for Artificial Intelligence, European Innovation Council</a>
             <p><em>Research in Ontology, Epistemology, Philosophy of Science, Philosophy of Technology, and Ethics of AI</em></p>
         </div>
     </div>
@@ -491,7 +491,7 @@
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/dryulin/">Asiyah Yu Lin</a></h3>
             Senior Data Scientist <br>
-            Axle Informatics
+            Axle Informatics; He Group, University of Michigan Ann Arbor
             <p><em>Research in Ontology Development, Ontologies of Medical Device Surveillance, Patient Safety, and Precision Medicine</em></p>
         </div>
     </div>
@@ -500,7 +500,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/William-Mandrick-300x284.jpg" alt="William Mandrick" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/william-mandrick-ph-d-29b88214/">William Mandrick</a></h3>
-            Associate Director & Ontology Lead <br> United Technologies Research Center
+            Ontology Subject Matter Expert <br> CUBRC, Buffalo NY
             <p><em>Research in Military Ontology, Conflict Processes, Counterinsurgency Operations, and Command and Control</em></p>
         </div>
     </div>
@@ -509,7 +509,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/J-Neil-Otte-2.3.17-225x300.jpg" alt="J. Niel Otte" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.jneilotte.com">J. Neil Otte</a></h3>
-            Senior Ontologist <br> Johns Hopkins University Applied Physics Lab
+            Program Manager <br> Johns Hopkins University Applied Physics Lab
             <p><em>Research in Evidence Ontologies for the Social Sciences, Experimental Methods, Ethics, Moral Psychology, and Experimental Philosophy</em></p>
         </div>
     </div>
@@ -527,7 +527,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/20150518_112113-230x300.jpg" alt="Fernanda Farinelli" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://proffernandafarinelli.wordpress.com/">Fernanda Farinelli</a></h3>
-            Professor <br> University of Brasil
+            Professor <br> University of Brasilia
             <p><em>Research in Data Management, Data Governance, and Ontologies</em></p>
         </div>
     </div>
@@ -536,7 +536,7 @@
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/regina.jpg" alt="Regina Hurley" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://philpeople.org/profiles/regina-hurley">Regina Hurley</a></h3>
-            Visiting Professor <br> Department of Philosophy University at Buffalo
+            Assistant Professor <br> Department of Philosophy University at Buffalo
             <p><em>Research in Applied Ontology, Ethics, and Social Epistemology</em></p>
         </div>
     </div>
@@ -545,7 +545,7 @@
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/jaron.jpg" alt="Jaron Cheung" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://philpeople.org/profiles/jaron-j-cheung">Jaron Cheung</a></h3>
-            Graduate Student <br> Department of Philosophy University at Buffalo
+            Graduate Student <br> Department of Philosophy, University at Buffalo
             <p><em>Research in Applied Ontology, Ethics, and Political Philosophy</em></p>
         </div>
     </div>
@@ -554,7 +554,7 @@
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/federico.png" alt="Federico Donato" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/federico-donato-100b9424b/">Federico Donato</a></h3>
-            Graduate Student <br> Department of Philosophy University at Buffalo
+            Graduate Student <br> Department of Philosophy, University at Buffalo
             <p><em>Research in Biomedical Ontologies and the Ontology of Artifacts</em></p>
         </div>
     </div>
@@ -563,7 +563,7 @@
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/olivia.png" alt="Olivia Hobai" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.researchgate.net/profile/Olivia-Hobai">Olivia Hobai</a></h3>
-            Undergraduate Student <br> Department of Philosophy University at Buffalo
+            Ontology Intern <br> Summit Knowledge Solutions
             <p><em>Research in Applied Ontology and Metaphysics</em></p>
         </div>
     </div>
@@ -573,7 +573,7 @@
         <div class="grid-item-content">
             <h3><a href="https://github.com/sebastianduesing">Sebastian Duesing</a></h3>
             Ontology Developer <br> La Jolla Institute for Immunology
-            <p><em>Research in the Ontology for Biomedical Investigations</em></p>
+            <p><em>Research on OBI, the Ontology for Biomedical Investigations</em></p>
         </div>
     </div>
 
@@ -599,7 +599,7 @@
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/giacomo.png" alt="Giacomo De Colle" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/giacomo-de-colle-8b842b75/">Giacomo De Colle</a></h3>
-            Graduate Student <br> Department of Philosophy University at Buffalo
+            Graduate Student <br> Department of Philosophy, University at Buffalo
             <p><em>Research in Quantum Ontologies, Occupation Ontologies, and Ontologies of Impact Measurements</em></p>
         </div>
     </div>
@@ -608,7 +608,7 @@
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/billig.png" alt="Josh Billig" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/josh-billig-0680041b8/">Josh Billig</a></h3>
-            Undergraduate Student <br> Department of Philosophy University at Buffalo
+            Undergraduate Student <br> Department of Philosophy, University at Buffalo
             <p><em>Research in Cyber Security and Intelligence Ontologies</em></p>
         </div>
     </div>
@@ -617,7 +617,7 @@
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/damayanthi.jpeg" alt="Damayanthi Jesudas" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.researchgate.net/scientific-contributions/B-Damayanthi-Jesudas-2123238395">Damayanthi Jesudas</a></h3>
-            Research Affiliate <br> National Center for Ontological Research
+            Postdoctoral Research <br> University of Florida, School of Dentistry
             <p><em>Research in Knowledge Graphs, Ontologies, and Natural Language Processing</em></p>
         </div>
     </div>
@@ -653,7 +653,7 @@
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/HectorG.JPG" alt="Hector Guzman-Orozco" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://www.linkedin.com/in/hector-guzman-orozco-b46967110/">Hector Guzman-Orozco</a></h3>
-            NCOR Head (Riverside division)<br>
+            Lead, NCOR Riverside Branch<br>
             <a href="https://www.msjc.edu/philosophy/">Assistant Professor of Philosophy at Mt. San Jacinto College</a></p>
             <p><em>Research in Applied Ontology and Philosophy of Language</em></p>
         </div>
@@ -663,7 +663,7 @@
         <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/Cristian%20Keroles.jpg" alt="Cristian Keroles" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="www.linkedin.com/in/cristiankeroles">Cristian Keroles</a></h3>
-            NCOR Lead (Riverside division)<br>
+            Researcher, NCOR Riverside Branch<br>
             Undergraduate student at California State University of California <br>
             <p><em>Research in Applied Ontology, Logic, and Metaphysics</em></p>
         </div>
@@ -683,7 +683,7 @@
         <div class="grid-item-content">
             <h3><a href="https://philpeople.org/profiles/philip-reed?app=%27A%3D0%22%3EMarie-H%C3%A9l%C3%A8ne">Philip Reed</a></h3>
             Professor, Canisius University<br>
-            Fellow at the Romanell Center for Clinical Ethics and the Philosophy of Medicine <br>
+            Fellow, Romanell Center for Clinical Ethics and the Philosophy of Medicine <br>
             <p><em>Research in Ontological and Ethical aspects of Medicine, Politics, and Society</em></p>
         </div>
     </div>
@@ -708,3 +708,19 @@
 
 
  
+ <div class="grid-item">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/jeremy.png" alt="Jérémy Ravenel" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://www.linkedin.com/in/jeremyravenel/">Jérémy Ravenel</a></h3>
+            Founder of naas.ai and CashStory<br>
+            <p><em>Research in Data Product Development, Automated and AI Tool Development</em></p>
+        </div>
+    </div>
+    <div class="grid-item">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/finn.png" alt="Finn Wilson" width="200" height="200">
+        <div class="grid-item-content">
+            <h3><a href="https://www.buffalo.edu/romanell/people/finn-wilson.html">Finn Wilson</a></h3>
+            Graduate Student, University at Buffalo<br>
+            <p><em>Research in Biomedical Ontology, Personal Identity</em></p>
+        </div>
+    </div>
