@@ -1,3 +1,5 @@
 User-agent: *
+Allow: /
 Disallow: /docs/assets/photos/
 Disallow: /archive/
+Sitemap: https://ncor.us/sitemap.xml
