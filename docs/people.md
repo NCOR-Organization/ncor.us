@@ -64,7 +64,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2020/05/Babcock-NCOR-pic-scaled.jpg" alt="Shane Babcock">
         <div class="grid-item-content">
             <h3><a href="https://www.researchgate.net/profile/Shane-Babcock">Shane Babcock</a></h3>
-            KadSci, LLC.
+            KadSci, LLC. 
             <p><em>Research in Traditional Metaphysics and Applied Ontology</em></p>
         </div>
     </div>
