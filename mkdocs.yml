@@ -24,23 +24,15 @@ nav:
   - NCOR Labs: 
     - Ontology 101 WG: ontology-101-wg.md
     - Common Core Ontologies WG: cco-wg.md
-    - Semantic Mappings WG: semantic-map-wg.md
-    #- Industrial Ontologies WG: iof-wg.md
-    #- Document Acts WG: d-acts-wg.md
-    - Semantic Stack WG: semantic-stack-wg.md
-    - Graduate Applied Ontology Society (GAOS): graduate-applied-ontology-society.md
     - BFO-CCO Office Hours: office-hours.md
-  - Affiliates: 
-    - People: people.md
+  - Community: 
+    - Leadership: leadership.md
+    - Community: community.md
     - Organizations: organizations.md
   - Training: 
     - Overview: overview.md
     - NCOR Pathways: training.md
-      #- Associate: associate.md
-      #- Specialist: specialists.md
-    #- Bootcamps: bootcamps.md
     - Open-Access Resources: open-access-courses.md
-  - NCOR Wiki: wiki.md
 
 extra:
   social:

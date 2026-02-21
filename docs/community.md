@@ -25,36 +25,6 @@
     }
 </style>
 
-<p style="font-size:25px"><center><b>NCOR Leadership</b></center></p>
-<div class="grid-container">
-    <div class="grid-item">
-        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Barry-Smith-300x300.jpg" alt="Barry Smith">
-        <div class="grid-item-content">
-            <h3><a href="http://ontology.buffalo.edu/smith/">Barry Smith</a></h3>
-            NCOR Director
-            <a href="//www.buffalo.edu/cas/philosophy.html">Distinguished Professor Department of Philosophy University at Buffalo</a></p>
-            <p><em>Research in Theoretical and Applied Ontology</em></p>
-        </div>
-    </div>
-    <div class="grid-item">
-        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2020/05/20200518_235644.jpg" alt="John Beverley" width="200" height="200">
-        <div class="grid-item-content">
-            <h3><a href="https://johnbeverley.com">John Beverley</a></h3>
-            NCOR Co-Director<br>
-            <a href="https://www.buffalo.edu/cas/philosophy.html">Assistant Professor Department of Philosophy University at Buffalo</a>
-            <p><em>Research in Applied Ontology, Logic, Metaphysics, and Social Epistemology</em></p>
-        </div>
-    </div>
-    <div class="grid-item">
-        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Alan-Ruttenberg-300x225.jpg" alt="Alan Ruttenberg">
-        <div class="grid-item-content">
-            <h3><a href="//creativecommons.org/about/program-areas/open-science">Alan Ruttenberg</a></h3>
-            <a href="//obofoundry.org/">Ontologist <br> Open Biological and Biomedical Ontologies Foundry</a>
-            <p><em>Research in Knowledge Representation, Computational Biology, Bioinformatics, Artificial Intelligence, Rich User Interface, and Parallel Computing</em></p>
-        </div>
-    </div>
-</div>
-
 <div class="divider" style="width: 100%; height: 2px; background-color: #333; margin: 5px 20;"></div>
 
 <p style="font-size:25px"><center><b>The NCOR Community</b></center></p>
@@ -722,5 +692,13 @@
             <h3><a href="https://www.buffalo.edu/romanell/people/finn-wilson.html">Finn Wilson</a></h3>
             Graduate Student, University at Buffalo<br>
             <p><em>Research in Biomedical Ontology, Personal Identity</em></p>
+        </div>
+    </div>
+<div class="grid-item">
+        <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Alan-Ruttenberg-300x225.jpg" alt="Alan Ruttenberg">
+        <div class="grid-item-content">
+            <h3><a href="//creativecommons.org/about/program-areas/open-science">Alan Ruttenberg</a></h3>
+            <a href="//obofoundry.org/">Ontologist <br> Open Biological and Biomedical Ontologies Foundry</a>
+            <p><em>Research in Knowledge Representation, Computational Biology, Bioinformatics, Artificial Intelligence, Rich User Interface, and Parallel Computing</em></p>
         </div>
     </div>
