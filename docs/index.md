@@ -3,6 +3,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="canonical" href="https://ncor.us/">
+    <meta name="robots" content="index, follow">
     <title>National Center for Ontological Research</title>
 </head>
 <body>
