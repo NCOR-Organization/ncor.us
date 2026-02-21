@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>NCOR Certificate Pathways</title>
+    <link rel="canonical" href="https://ncor.us/">
     <link rel="stylesheet" href="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/stylesheets/extra.css">
     <style>
         body {
