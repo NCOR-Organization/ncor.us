@@ -1,6 +1,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="canonical" href="https://ncor.us/">
+<link rel="canonical" href="https://ncor.us/cco-wg/">
 <title>NCOR Common Core Ontologies Working Group</title>
 <style>
 body {

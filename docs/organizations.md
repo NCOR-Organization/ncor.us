@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>Partner Organizations</title>
-    <link rel="canonical" href="https://ncor.us/">
+    <link rel="canonical" href="https://ncor.us/organizations/">
     <style>
         .grid-container {
             display: grid;

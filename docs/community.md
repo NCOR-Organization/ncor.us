@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NCOR Community</title>
+    <link rel="canonical" href="https://ncor.us/community/">
+</head>
+<body>
 <style>
 .grid-container {
         display: grid;
