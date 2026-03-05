@@ -41,8 +41,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2015/10/Barry-Smith-300x300.jpg" alt="Barry Smith">
         <div class="grid-item-content">
             <h3><a href="http://ontology.buffalo.edu/smith/">Barry Smith</a></h3>
-            NCOR Director
-            <a href="//www.buffalo.edu/cas/philosophy.html">Distinguished Professor Department of Philosophy University at Buffalo</a></p>
+            Board of Directors, Chair
             <p><em>Research in Theoretical and Applied Ontology</em></p>
         </div>
     </div>
@@ -50,9 +49,8 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2020/05/20200518_235644.jpg" alt="John Beverley" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://johnbeverley.com">John Beverley</a></h3>
-            NCOR Co-Director<br>
-            <a href="https://www.buffalo.edu/cas/philosophy.html">Assistant Professor Department of Philosophy University at Buffalo</a>
-            <p><em>Research in Applied Ontology, Logic, Metaphysics, and Social Epistemology</em></p>
+            Board of Directors Member, CEO<br>
+            <p><em>Research in Ontology Enginering and Formal Logic</em></p>
         </div>
     </div>
 </div>
