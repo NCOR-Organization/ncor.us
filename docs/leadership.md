@@ -49,7 +49,7 @@
         <img src="https://ubwp.buffalo.edu/ncor/wp-content/uploads/sites/40/2020/05/20200518_235644.jpg" alt="John Beverley" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="https://johnbeverley.com">John Beverley</a></h3>
-            Board of Directors Member, CEO<br>
+            Board of Directors Member, President<br>
             <p><em>Research in Ontology Enginering and Formal Logic</em></p>
         </div>
     </div>
