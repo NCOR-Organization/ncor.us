@@ -154,7 +154,7 @@
     </div>
 
 <div class="grid-item">
-        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/Jose.jpg" alt="José M Parente de Oliveira" width="200" height="200">
+        <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/photos/Jose.jpeg" alt="José M Parente de Oliveira" width="200" height="200">
         <div class="grid-item-content">
             <h3><a href="//www.linkedin.com/in/jose-m-parente-de-oliveira-53188618/">José M Parente de Oliveira</a></h3>
             <a href="//www.engrena.ita.br/en/ccm-ita-en/">Professor Computer Science <br> Aeronautics Institute of Technology</a>
