@@ -42,9 +42,9 @@ h1, h2, p, a, li {
 
 <p>The NCOR Ontology 101 Working Group (101WG) is a space for those new to applied ontology to learn the basics of building models and putting ontologies to work in the world. The group is an open forum for discussion of practical modeling challenges, design patterns, technical problems, and experimentation with new ideas.</p>
 
-<p>101WG is co-chaired by <a href="https://www.linkedin.com/in/cameron-more/" class="custom-color">Cameron More</a> and <a href="https://johnbeverley.com/" class="custom-color">John Beverley</a>. Meetings regularly involve discussion of challenges associated with understanding and applying ontology engineering technologies, such as writing SPARQL queries or SHACL validation, as well as practicing the use of tools such as Protege. Please see the minutes from past meetings below for a better understanding of topics covered. The group meets once a week.</p>
+<p>101WG is chaired by <a href="https://www.linkedin.com/in/william-mandrick-ph-d-29b88214/?isSelfProfile=false" class="custom-color">Bill Mandrick</a>. Meetings regularly involve discussion of challenges associated with understanding and applying ontology engineering technologies, such as writing SPARQL queries or SHACL validation, as well as practicing the use of tools such as Protege. Please see the minutes from past meetings below for a better understanding of topics covered. The group meets once a week.</p>
 
-<p>If you would like to attend 101WG meetings either in-person or remotely, contact John Beverley at: johnbeve[@]buffalo.edu.</p>
+<p>If you would like to attend 101WG meetings either in-person or remotely, reach out at info[@]ncornetwork.org.</p>
 
 <h2>Ontology 101 Resources</h2>
 
@@ -53,8 +53,6 @@ h1, h2, p, a, li {
   <li><a href="https://protege.stanford.edu/" class="custom-color">Protege Ontology Editor</a></li>
   <li><a href="https://www.w3.org/TR/sparql11-query/" class="custom-color">W3C SPARQL 1.1 Documentation</a></li>
   <li><a href="https://github.com/semantalytics/awesome-semantic-web" class="custom-color">Semantic Web Resources GitHub Page.</a></li>
-  <li><a href="http://ncorwiki.buffalo.edu/index.php/Analytic_Metaphysics_(2016)">Analytic Metaphysics 2016</a></li>
-  <li><a href="http://ncorwiki.buffalo.edu/index.php/Ontological_Engineering_2013">Ontological Engineering 2013</a></li>
 </ul>
 
 <h2>Minutes</h2>

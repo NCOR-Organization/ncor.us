@@ -23,7 +23,6 @@ nav:
   - About: index.md
   - NCOR Labs: 
     - Ontology 101 WG: ontology-101-wg.md
-    - Common Core Ontologies WG: cco-wg.md
     - BFO-CCO Office Hours: office-hours.md
   - Community: 
     - Leadership: leadership.md
@@ -41,7 +40,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/BFO-ontology/BFO-2020
     - icon: octicons/mail-16
-      link: mailto:johnbeve@buffalo.edu
+      link: mailto:info@ncornetwork.org
 
 markdown_extensions:
     - attr_list

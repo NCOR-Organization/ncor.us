@@ -51,9 +51,9 @@ h1, h2, p, a, li {
     <li>Where: Virtual Meetings on Teams</li>
 </ul>
 
-<p>If you are interested in joining one or more office hours, please contact <a href="https://johnbeverley.com/" class="custom-color">John Beverley</a> at johnbeve[@]buffalo.edu. You will be provided a Teams invite for the scheduled time.</p>
+<p>If you are interested in joining one or more office hours, please reach out to info[@]ncornetwork.org.</p>
 
-<p>In addition to the biweekly office hours, there is an associated Slack channel for the group where stakeholders may continue conversation with the BFO and CCO leads. As above, please contact <a href="https://johnbeverley.com/" class="custom-color">John Beverley</a> at johnbeve[@]buffalo.edu to be added to the BFO-CCO Office Hours Slack channel.</p>
+<p>In addition to the biweekly office hours, there is an associated Slack channel for the group where stakeholders may continue conversation with the BFO and CCO leads. As above, please reach out to info[@]ncornetwork.org to be added to the BFO-CCO Office Hours Slack channel.</p>
 
 <p>As stakeholder questions are addressed, we will also establish a "FAQ" where stakeholders will be directed for vetted answers to commonly posed questions.<p>
 

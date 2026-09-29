@@ -46,30 +46,6 @@
         </div>
     </div>
     <div class="grid-item">
-        <a href="https://www.buffalo.edu/cmif.html">
-            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/cmif.png" alt="Center for Multisource Information Fusion">
-        </a>
-        <div class="grid-item-content">
-            <h3><a href="https://www.buffalo.edu/cmif.html">Center for Multisource Information Fusion</a></h3>
-        </div>
-    </div>
-    <div class="grid-item">
-        <a href="http://medicine.buffalo.edu/departments/biomedical-informatics/divisions/biomedical-ontology.html">
-            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/dbi.png" alt="Division of Biomedical Ontology">
-        </a>
-        <div class="grid-item-content">
-            <h3><a href="http://medicine.buffalo.edu/departments/biomedical-informatics/divisions/biomedical-ontology.html">Division of Biomedical Ontology</a></h3>
-        </div>
-    </div>
-    <div class="grid-item">
-        <a href="https://www.buffalo.edu/cas/philosophy/grad-study/ontology.html">
-            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/philosophy.png" alt="Department of Philosophy">
-        </a>
-        <div class="grid-item-content">
-            <h3><a href="https://www.buffalo.edu/cas/philosophy/grad-study/ontology.html">Department of Philosophy</a></h3>
-        </div>
-    </div>
-    <div class="grid-item">
         <a href="https://ontology-br.com.br/about/">
             <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/ncor-brazil.png" alt="NCOR Brazil">
         </a>
@@ -99,14 +75,6 @@
         </a>
         <div class="grid-item-content">
             <h3><a href="https://www.utsouthwestern.edu/">University of Texas Southwestern Medical Center</a></h3>
-        </div>
-    </div>
-    <div class="grid-item">
-        <a href="https://www.buffalo.edu/ai-data-science.html">
-            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/iad.png" alt="Institute for Artificial Intelligence and Data Science">
-        </a>
-        <div class="grid-item-content">
-            <h3><a href="https://www.buffalo.edu/ai-data-science.html">Institute for Artificial Intelligence and Data Science</a></h3>
         </div>
     </div>
     <div class="grid-item">
@@ -187,14 +155,6 @@
         </a>
         <div class="grid-item-content">
             <h3><a href="https://www.inf.ufrgs.br/site/en/">Institute of Informatics, Federal University of Rio Grande do Sul</a></h3>
-        </div>
-    </div>
-    <div class="grid-item">
-        <a href="https://www.buffalo.edu/cimif.html">
-            <img src="https://raw.githubusercontent.com/johnbeve/NCOR-Test/main/docs/assets/logos/cimif.png" alt="Collaborative Institute for Multisource Information Fusion">
-        </a>
-        <div class="grid-item-content">
-            <h3><a href="https://www.buffalo.edu/cimif.html">University at Buffalo (UB) Collaborative Institute for Multisource Information Fusion</a></h3>
         </div>
     </div>
     <div class="grid-item">

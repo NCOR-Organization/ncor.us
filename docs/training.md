@@ -474,61 +474,6 @@
             </article>
         </div>
     </section>
-    <section id="open-source">
-        <h2>Open-Source Courses</h2>
-        <p>Explore our collection of open-source training materials to enhance your skills.</p>
-        <div class="siema">
-            <div class="card">
-                <h3><a href="http://ncorwiki.buffalo.edu/index.php/Applied_Ontology,_Spring_2022">Applied Ontology</a></h3>
-                <p>Dive into applied ontology with open-source tools.</p>
-            </div>
-            <div class="card">
-                <h3><a href="/index.php/Intelligence_Analysis:_A_Crash_Course">Intelligence Analysis: A Crash Course</a></h3>
-                <p>Learn how to deploy intelligence analytics effectively using open-source software.</p>
-            </div>
-            <div class="card">
-                <h3><a href="http://ncorwiki.buffalo.edu/index.php/Biomedical_Ontology_2016">Biomedical Ontology</a></h3>
-                <p>Dive into biomedical ontology development with open-source tools.</p>
-            </div>
-            <div class="card">
-                <h3><a href="/index.php/Ontology_of_Military_Planning_and_Operations_Assessment">Ontologies for Military Planning and Operations Assessment</a></h3>
-                <p>Explore nuances of miitary planning and evaluation using Basic Formal Ontology.</p>
-            </div>
-            <div class="card">
-                <h3><a href="http://ncorwiki.buffalo.edu/index.php/STIDS_2013">Applied Ontology for Information Sciences</a></h3>
-                <p>Investigate the complexity of information modeling using ontology engineering best practices.</p>
-            </div>
-            <div class="card">
-                <h3><a href="/index.php/Systems_Engineering_Boot_Camp">Systems Engineering Bootcamp</a></h3>
-                <p>Delve into the world of systems engineering through the lens of the ontology engineer.</p>
-            </div>
-        </div>
-        <button class="prev">Previous</button>
-        <button class="next">Next</button>
-    </section>
     </main>
-<script src="https://cdn.jsdelivr.net/npm/siema@1.5.1/dist/siema.min.js"></script>
-<script>
-    document.addEventListener('DOMContentLoaded', function() {
-        let mySiema = new Siema({
-            selector: '.siema',
-            duration: 200,
-            easing: 'ease-out',
-            perPage: { 768: 2, 1024: 3 },
-            startIndex: 0,
-            draggable: true,
-            multipleDrag: true,
-            threshold: 20,
-            loop: true,
-        });
-        document.querySelector('.prev').addEventListener('click', () => mySiema.prev());
-        document.querySelector('.next').addEventListener('click', () => mySiema.next());
-        document.querySelectorAll('.dropdown .arrow').forEach(function(arrow) {
-            arrow.addEventListener('click', function(event) {
-                this.closest('.dropdown').classList.toggle('dropdown-active');
-            });
-        });
-    });
-</script>
 </body>
 </html>
